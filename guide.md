@@ -47,7 +47,7 @@ Windows Task Scheduler automates the execution of programs, scripts, or commands
      - Daily, Weekly, At startup, or On an event
    - Configure details → **OK**
 
-![Create Trigger](create_trigger.png)
+![Create Trigger](new_trigger.png)
 
 
 5. **Actions Tab** (What it runs)
@@ -109,6 +109,8 @@ Windows Task Scheduler automates the execution of programs, scripts, or commands
 1. Right-click the task → **Run**
 2. **Status** changes to *Running*
 3. To stop: Right-click → **End**
+
+![Stopping Task](stop.png)
 
 ---
 
